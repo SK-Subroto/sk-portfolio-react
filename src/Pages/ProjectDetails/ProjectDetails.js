@@ -20,7 +20,7 @@ const ProjectDetails = () => {
     return (
         <Container style={{ minHeight: '80vh', marginTop: '90px' }}>
             <Row className="mt-5">
-                <Col lg="6" className="order-lg-0 order-1">
+                <Col lg="6" className="order-lg-0 order-1 mt-4 px-4">
                     <h4><b>Project Title:</b> {project.title}</h4>
                     <div>
                         <h4><b>Descriptions:</b></h4>
