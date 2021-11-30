@@ -1,0 +1,23 @@
+/* about */
+.about-container {
+    padding: 8% 7%;
+    color: white;
+}
+.about-note{
+    text-align: justify;
+}
+.about-details{
+    margin-top: 5%;
+}
+#about a {
+    color: white;
+    border: white 2px solid;
+}
+#about img{
+    /* height: 350px; */
+    width: 83%;
+    border: white 4px solid;
+}
+.about-hr{
+    border: white 1px solid;
+}

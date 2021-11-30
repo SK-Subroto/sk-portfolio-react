@@ -1,0 +1,12 @@
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    border-radius: 50%;
+    border: 5px solid rgb(180, 180, 180);
+    color: white;
+    height: 50px;
+    width: 50px;
+    background-color: #8B7CD8;
+}
